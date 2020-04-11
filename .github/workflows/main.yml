@@ -1,0 +1,33 @@
+name: Build Site
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+        with:
+          submodules: true
+          lfs: true
+      - name: Hugo Build
+        uses: chabad360/hugo-actions@master
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: public
+          path: public
+      - name: ftp-action
+        uses: sebastianpopp/ftp-action@v2.0.0
+        with:
+          host: ${{ secrets.FTPS_HOST }}:${{ secrets.FTPS_PORT }}
+          user: ${{ secrets.FTPS_USERNAME }}
+          password: ${{ secrets.FTPS_PASSWORD }}
+          localDir: public
+          remoteDir: .
+          forceSsl: true
