@@ -63,7 +63,7 @@ pygmentscodefencesguesssyntax = true
     name = "PGP-Key"
     icon = "fa fa-lock"
     weight = 3
-    url = "https://pgp.key-server.io/pks/lookup?op=vindex&search=0x79E6AC8794C85FA90CF00AF05923AEAB59ABFFB0"
+    url = "http://keys.gnupg.net/pks/lookup?search=0x79E6AC8794C85FA90CF00AF05923AEAB59ABFFB0&fingerprint=on&op=index"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
