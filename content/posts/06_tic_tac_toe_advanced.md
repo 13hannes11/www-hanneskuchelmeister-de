@@ -10,6 +10,6 @@ tags = [
 
 {{< youtube neEZbfcr6F8 >}}
 
-[For Phones!!](https://demos.hanneskuchelmeister.de/processing/GameOfLife/)
+[For Phones!!](https://demos.hanneskuchelmeister.de/processing/TicTacToeAdvanced/phone/)
 
 [Standard Version](https://demos.hanneskuchelmeister.de/processing/TicTacToeAdvanced/)
