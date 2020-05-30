@@ -6,6 +6,9 @@ description = "The classic game 'Snake' written in the processing language."
 tags = [
     "astar","path-finding","c#","xna"
 ]
+aliases = [
+	"/portfolio/a-algorithm/"
+]
 +++
 
 ## Version 1

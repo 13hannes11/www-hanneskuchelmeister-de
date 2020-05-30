@@ -6,6 +6,9 @@ description = "The classic game 'Snake' written in the processing language."
 tags = [
     "snake","game","java","processing"
 ]
+aliases = [
+	"/portfolio/java-processing-snake/"
+]
 +++
 
 {{< youtube cYNp0XIu_u0 >}}

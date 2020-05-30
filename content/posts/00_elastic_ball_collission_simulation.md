@@ -6,6 +6,9 @@ description = "A physically accurate simulation of elastic collisions."
 tags = [
     "xna","c#","simulation"
 ]
+aliases = [
+	"/portfolio/elastic-ball-collision-simulation/"
+]
 +++
 
 {{< youtube OnWj1KU5ueU >}}

@@ -6,6 +6,9 @@ description = "In university we worked on a framework for geometry processing."
 tags = [
     "assignment","c++","university","geometry"
 ]
+aliases = [
+	"/portfolio/mars-lab-tasks-1-3/"
+]
 +++
 
 The lab consisted of 6 tasks of which the the results of the first three tasks will be represented here. Most of the tasks consisted of implementing parts of a library.

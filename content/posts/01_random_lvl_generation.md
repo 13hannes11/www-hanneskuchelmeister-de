@@ -6,6 +6,9 @@ description = "A small project to generate random levels."
 tags = [
     "xna","c#","procedural", "generation"
 ]
+aliases = [
+	"/portfolio/random-level-generation/"
+]
 +++
 
 I slowed down the recording by a factor of 0.25.

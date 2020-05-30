@@ -6,6 +6,9 @@ description = "A variation of the game tic tac toe that is not so predictable."
 tags = [
     "game","javascript","processing"
 ]
+aliases = [
+	"/portfolio/advanced-tic-tac-toe/"
+]
 +++
 
 {{< youtube neEZbfcr6F8 >}}

@@ -6,6 +6,9 @@ description = "An implementation of Conway's Game of Life that runs in the brows
 tags = [
     "game","javascript","processing"
 ]
+aliases = [
+	"/portfolio/conways-game-of-life/"
+]
 +++
 
 {{< youtube q0kyUSHHamY >}}

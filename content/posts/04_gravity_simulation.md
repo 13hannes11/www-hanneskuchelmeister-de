@@ -6,6 +6,9 @@ description = "A gravitational simulation of planets."
 tags = [
     "simulation","c#","xna"
 ]
+aliases = [
+	"/portfolio/newtons-gravity-simulation/"
+]
 +++
 
 {{< youtube 3Pa4FtozdUA >}}

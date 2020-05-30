@@ -6,6 +6,9 @@ description = "A prototype tool to manage your study plan."
 tags = [
     "java","javascript","backone.js","university"
 ]
+aliases = [
+	"/portfolio/praxis-der-softwareentwicklung/"
+]
 +++
 This is a university team project which is part of the curriculum.  The aim was to create a tool that allows to create, verify and  procedurally generate study plans as proof of concept to help students  plan their studies.
 

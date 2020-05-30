@@ -6,6 +6,9 @@ description = "A visualisation of the solar system in OpenGL."
 tags = [
     "visualisation","opengl","java","university"
 ]
+aliases = [
+	"/portfolio/3d-graphics-solar-system-visualization/"
+]
 +++
 
 ![](/images/posts/solarsystem.png)
