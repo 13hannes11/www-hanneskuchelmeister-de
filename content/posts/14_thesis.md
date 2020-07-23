@@ -13,6 +13,10 @@ The system can be seen in action in this video:
 
 {{< youtube YNBfo15y6xI >}}
 
+And also in this video:
+
+{{< youtube yBarH_VI5EE >}}
+
 Unfortunatly I can only publish the code for my recommender system and not for the whole configurator but you can find it on [GitHub](https://github.com/13hannes11/bachelor_thesis_m.recommend).
 
 Also you can find my the process of my writing and the documents of my thesis, proposals and other documents on [GitHub](https://github.com/13hannes11/bachelor_thesis).
