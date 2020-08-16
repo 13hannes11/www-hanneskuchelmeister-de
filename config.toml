@@ -19,7 +19,7 @@ pygmentscodefencesguesssyntax = true
     author = "Hannes F. Kuchelmeister"
     description = "Hannes F. Kuchelmeister's personal website"
     keywords = "blog,developer,personal"
-    info = "Student of Computer Science at KIT"
+    info = "Master's Student in Computer Science at Uppsala University"
     avatarurl = "images/avatar.jpg"
     footercontent = ""
 
@@ -46,7 +46,7 @@ pygmentscodefencesguesssyntax = true
     custom_js = []
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
-[params.fathomAnalytics]
+#[params.fathomAnalytics]
 
 
 [[params.social]]
