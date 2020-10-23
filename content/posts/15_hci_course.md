@@ -1,6 +1,6 @@
 +++
 author = "Hannes Kuchelmeister"
-title = "First steps in human computer interaction."
+title = "First Steps in Human Computer interaction."
 date = "2020-10-23"
 description = ""
 tags = [ 
