@@ -14,7 +14,7 @@ This autumn I took a course in human computer interaction. The task was to think
 My prototype is available at:
 [demo](https://demos.hanneskuchelmeister.de/html/HCI_schedule/index.html)
 
-And the source code, which is hacky and was put together without much time can be found here: [GitHub]()
+And the source code, which is hacky and was put together without much time can be found here: [GitHub](https://github.com/13hannes11/uu_hci_prototype)
 
 These are the sketches I created beforehand:
 
