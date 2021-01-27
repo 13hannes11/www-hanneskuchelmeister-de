@@ -66,12 +66,12 @@ pygmentscodefencesguesssyntax = true
     url = "http://keys.gnupg.net/pks/lookup?search=0x79E6AC8794C85FA90CF00AF05923AEAB59ABFFB0&fingerprint=on&op=index"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/hannes-kuchelmeister/"
 [[params.social]]
     name = "RSS"
-    icon = "fas fa-rss"
+    icon = "fa fa-rss"
     weight = 6
     url = "index.xml"
     rel = "alternate"
