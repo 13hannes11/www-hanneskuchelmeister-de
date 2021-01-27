@@ -4,7 +4,7 @@ title = "Random Level Generation"
 date = "2013-01-02"
 description = "A small project to generate random levels."
 tags = [
-    "xna","c#","procedural", "generation"
+    "xna","c-sharp","procedural", "generation"
 ]
 aliases = [
 	"/portfolio/random-level-generation/"

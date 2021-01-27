@@ -4,7 +4,7 @@ title = "Practical Software Engineering Project (PSE)"
 date = "2017-06-05"
 description = "A prototype tool to manage your study plan."
 tags = [
-    "java","javascript","backone.js","university"
+    "java","javascript","backone.js","KIT"
 ]
 aliases = [
 	"/portfolio/praxis-der-softwareentwicklung/"

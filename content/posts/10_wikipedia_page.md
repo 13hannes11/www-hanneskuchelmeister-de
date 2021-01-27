@@ -4,7 +4,7 @@ title = "Creating a Wikipedia Page for Broadcast (Parallel Operation)"
 date = "2019-04-30"
 description = "In university we created a Wikipedia page for a topic."
 tags = [
-    "wikipedia","assignment","parallel-computing","university"
+    "wikipedia","assignment","parallel-computing","KIT"
 ]
 aliases = [
 	"/portfolio/creating-a-wikipedia-page-for-broadcast-parallel-primitive-operation/"

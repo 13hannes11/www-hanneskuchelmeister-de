@@ -4,7 +4,7 @@ title = "Thesis: Recommender System for Group-Based Configuration"
 date = "2020-07-15"
 description = ""
 tags = [
-    "thesis","recommender","python","bachelor","university"
+    "thesis","recommender","python","bachelor","KIT", "typescript"
 ]
 +++
 

@@ -4,7 +4,7 @@ title = "A* Pathfinding Algorithm"
 date = "2013-04-07"
 description = "The classic game 'Snake' written in the processing language."
 tags = [
-    "astar","path-finding","c#","xna"
+    "astar","path-finding","c-sharp","xna"
 ]
 aliases = [
 	"/portfolio/a-algorithm/"

@@ -4,7 +4,7 @@ title = "Code Hub Presentation: Complexity Theory and Computability"
 date = "2018-02-27"
 description = "A presentation for an event at Linnaeus University about complxity theory and computability."
 tags = [
-    "presentation","codehub","theoretical","university"
+    "presentation","codehub","theoretical"," LNU"
 ]
 aliases = [
 	"/portfolio/code-hub-presentation-complexity-theory-and-computability/"

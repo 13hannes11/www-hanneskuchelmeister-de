@@ -1,10 +1,10 @@
 +++
 author = "Hannes Kuchelmeister"
-title = "Elastic ball collision simulation"
+title = "Elastic Ball Collision Simulation"
 date = "2012-09-28"
 description = "A physically accurate simulation of elastic collisions."
 tags = [
-    "xna","c#","simulation"
+    "xna","c-sharp","simulation"
 ]
 aliases = [
 	"/portfolio/elastic-ball-collision-simulation/"

@@ -4,7 +4,7 @@ title = "MARS 1-3"
 date = "2019-08-27"
 description = "In university we worked on a framework for geometry processing."
 tags = [
-    "assignment","c++","university","geometry"
+    "assignment","c++","KIT","geometry"
 ]
 aliases = [
 	"/portfolio/mars-lab-tasks-1-3/"

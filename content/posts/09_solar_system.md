@@ -4,7 +4,7 @@ title = "3D-Graphics Solar System Visualization"
 date = "2018-03-27"
 description = "A visualisation of the solar system in OpenGL."
 tags = [
-    "visualisation","opengl","java","university"
+    "visualisation","opengl","java","LNU", "GLSL"
 ]
 aliases = [
 	"/portfolio/3d-graphics-solar-system-visualization/"

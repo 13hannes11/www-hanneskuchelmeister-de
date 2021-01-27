@@ -4,7 +4,7 @@ title = "First Steps in Human Computer interaction."
 date = "2020-10-23"
 description = ""
 tags = [ 
-"human_computer_interaction","prototype","assignment","university"
+"human_computer_interaction","prototype", "javascript","assignment","UU"
 ]
 +++
 

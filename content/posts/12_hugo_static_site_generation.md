@@ -4,7 +4,7 @@ title = "Static Site Generation with Hugo"
 date = "2020-04-25"
 description = "This website changed to static site generation with hugo. This post describes why."
 tags = [
-    "go","website","static"
+    "website","static"
 ]
 +++
 

@@ -4,7 +4,7 @@ title = "Gravity Simulation"
 date = "2014-04-23"
 description = "A gravitational simulation of planets."
 tags = [
-    "simulation","c#","xna"
+    "simulation","c-sharp","xna"
 ]
 aliases = [
 	"/portfolio/newtons-gravity-simulation/"
