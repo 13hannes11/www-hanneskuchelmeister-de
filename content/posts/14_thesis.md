@@ -19,4 +19,4 @@ And also in this video:
 
 Unfortunatly I can only publish the code for my recommender system and not for the whole configurator but you can find it on [GitHub](https://github.com/13hannes11/bachelor_thesis_m.recommend).
 
-Also you can find my the process of my writing and the documents of my thesis, proposals and other documents on [GitHub](https://github.com/13hannes11/bachelor_thesis).
+Also you can find the history of  my writing process and the documents of my thesis, proposals and other documents on [GitHub](https://github.com/13hannes11/bachelor_thesis).
