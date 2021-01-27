@@ -55,6 +55,11 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://github.com/13hannes11/"
 [[params.social]]
+    name = "Matrix"
+    icon = "fa fa-matrix-org"
+    weight = 1
+    url = "https://matrix.to/#/@13hannes11:matrix.org"
+[[params.social]]
     name = "E-Mail"
     icon = "fa fa-envelope"
     weight = 2
@@ -76,6 +81,7 @@ pygmentscodefencesguesssyntax = true
     url = "index.xml"
     rel = "alternate"
     type = "application/rss+xml"
+
 [taxonomies]
     category = "categories"
     series = "series"
