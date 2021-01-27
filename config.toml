@@ -23,7 +23,7 @@ pygmentscodefencesguesssyntax = true
     avatarurl = "images/avatar.jpg"
     footercontent = ""
 
-    dateformat = "January 2, 2006"
+    dateformat = "2 January, 2006"
 
     hideCredits = true
     hideCopyright = false
@@ -77,9 +77,18 @@ pygmentscodefencesguesssyntax = true
     rel = "alternate"
     type = "application/rss+xml"
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    url = "/"  
+[[menu.main]]
+    name = "Programming Languages"
+    weight = 2
+    url = "languages/"
 
 
 
