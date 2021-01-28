@@ -6,6 +6,7 @@ description = ""
 tags = [
     "R","python","assignment","UU"
 ]
+draft = true
 +++
 
 In this post I want to present the projects undertaken for my lecture "Artificial Intelligence" at Uppsala University
