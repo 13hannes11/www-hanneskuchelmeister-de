@@ -44,6 +44,9 @@ pygmentscodefencesguesssyntax = true
 
     # Custom JS
     custom_js = []
+    
+    timelineTitle="Projects"
+    timelineType="posts"
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 #[params.fathomAnalytics]
