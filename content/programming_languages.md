@@ -9,8 +9,8 @@ Language    |Experience  |Projects
 :-----------|:----------:|--------
 C           | ■■▢▢▢▢▢▢▢▢ | Operating Systems\*\*, Introduction to Computer Science Studies in Sweden\*
 [C#]({{< ref "/tags/c-sharp/">}}) | ■■▢▢▢▢▢▢▢▢ | [Gravity Simulation]({{< ref "04_gravity_simulation" >}}), [A\* Pathfinding]({{< ref "02_a_star_algorithm" >}}), [Random Level Generation]({{< ref "01_random_lvl_generation" >}}), [Elastic Ball Collision Simulation]({{< ref "00_elastic_ball_collission_simulation" >}})
-[C++]({{< ref "/tags/c++/">}}) | ■■■■▢▢▢▢▢▢ | Language Abstractions for Parallel Programming\*, Low Level Parallel Programming\*, [MARS]({{< ref "11_mars_lab_1_3" >}})\*\*
-Erlang      | ■■▢▢▢▢▢▢▢▢ | Advanced Functional Programming\*
+[C++]({{< ref "/tags/c++/">}}) | ■■■■▢▢▢▢▢▢ | Language Abstractions for Parallel Programming\*, [Low Level Parallel Programming]({{< ref "17_pedestrian_simulation" >}})\*, [MARS]({{< ref "11_mars_lab_1_3" >}})\*\*
+Erlang      | ■■▢▢▢▢▢▢▢▢ | [Advanced Functional Programming]({{< ref "16_erlang_sat_server" >}})\*
 [GLSL]({{< ref "/tags/GLSL/" >}})| ■▢▢▢▢▢▢▢▢▢ | [3D-Graphics]({{< ref "09_solar_system" >}})\*\*\*
 Haskell     | ■■■▢▢▢▢▢▢▢ | Advanced Functional Programming\*, Programming Paradigms\*\*
 [Java]({{< ref "/tags/java/" >}}) | ■■■■■■▢▢▢▢ | [Practical Software Engineering]({{< ref "07_pse" >}})\*\*, [3D-[Graphics]({{< ref "09_solar_system" >}})\*\*\*, School Projects, [Conway's Game of Life]({{< ref "05_game_of_life" >}}), [Tic Tac Toe Advances]({{< ref "06_tic_tac_toe_advanced" >}})
