@@ -1,6 +1,6 @@
 +++
 author = "Hannes F. Kuchelmeister"
-title = "Micro Pedestrian Simulation."
+title = "Micro Pedestrian Simulation"
 date = "2021-03-19"
 description = "" 
 tags = [ 
