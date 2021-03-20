@@ -11,7 +11,7 @@ tags = [
 This spring I took a course in low level parallel programming. In this course as a group of three we needed to implement parts of a pedestrian simulation.
 
 The result can be seen in video form:
-{{< youtube Ym4geZaaM20 >}}
+{{< youtube V3bZB12P9fc >}}
 
 The first assignment was to parallelize the computation of next desired positions of agents using OMP and PThreads. The solution for PThreats that we chose was to spawn new threads each tick. This of course is inefficient and actually caused a slowdown. Instead we should have implemented a thread-pool.
 
