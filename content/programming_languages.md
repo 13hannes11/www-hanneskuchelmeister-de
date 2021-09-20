@@ -18,7 +18,7 @@ Haskell                                         | ■■■▢▢▢▢▢▢▢
 [TypeScript]({{< ref "/tags/typescript/" >}})   | ■■▢▢▢▢▢▢▢▢ | Job at CAS Software, [Bachelor's Thesis]({{< ref "14_thesis">}})
 Matlab                                          | ■■■▢▢▢▢▢▢▢ | Image Analysis I\*, Natural Computation Methods for Machine Learning\*
 MPI                                             | ■■▢▢▢▢▢▢▢▢ | Parallel and Distributed Programming \*
-[Python]({{< ref "/tags/python/">}})            | ■■■■■▢▢▢▢▢ | [Bachelor's Thesis]({{< ref "14_thesis">}}), Introduction to Computer Science Studies in Sweden*, Student Residence Authentication Backend, Student Residence Application Portal, [Deep Learning for Image Analysis]({{< ref "18_deep_learning_for_image_analysis" >}})\*, Natural Computation Methods for Machine Learning\*, Summer Project in Image Analysis (Job) 
+[Python]({{< ref "/tags/python/">}})            | ■■■■■▢▢▢▢▢ | [Bachelor's Thesis]({{< ref "14_thesis">}}), Introduction to Computer Science Studies in Sweden*, Student Residence Authentication Backend, Student Residence Application Portal, [Deep Learning for Image Analysis]({{< ref "18_deep_learning_for_image_analysis" >}})\*, [Natural Computation Methods for Machine Learning]({{< ref "19_party_proximity_analysis_using_sofm" >}})\*, Summer Project in Image Analysis (Job) 
 PHP                                             | ■▢▢▢▢▢▢▢▢▢ | Website for Photo Upload
 Prolog                                          | ■▢▢▢▢▢▢▢▢▢ | Programming Paradigms\*\*
 R                                               | ■▢▢▢▢▢▢▢▢▢ | Artificial Intelligence*
