@@ -1,6 +1,6 @@
 +++
 author = "Hannes Kuchelmeister"
-title = "Cell-C-sigma Sparse Matrix Format"
+title = "SELL-C-sigma Sparse Matrix Format"
 date = "2021-12-09"
 tags = [
   "c++", "cuda", "sparse matrix", "matrix"
