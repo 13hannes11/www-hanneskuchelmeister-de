@@ -11,7 +11,7 @@ The project ics-proxy I started out of frustration of needing to change a web ca
 
 ![](/images/posts/21_ics-proxy/main-page.png)
 
-The application generates a link with a UUID. This link can now be used in a calendar application to get the web calendar. This link can also be entered into the application itself (on the main page) which leads to the same settings (see image below) as entering a new link. On the settings page, the user has the possibility to change the URL which the proxy contacts. Therefore, now I can generate one link with my schedule, add this to all calendars and if needed change where it points to, thereby eliminating the need to change links on every device.y
+The application generates a link with a UUID. This link can now be used in a calendar application to get the web calendar. This link can also be entered into the application itself (on the main page) which leads to the same settings (see image below) as entering a new link. On the settings page, the user has the possibility to change the URL which the proxy contacts. Therefore, now I can generate one link with my schedule, add this to all calendars and if needed change where it points to, thereby eliminating the need to change links on every device.
 
 ![](/images/posts/21_ics-proxy/settings.png)
 
