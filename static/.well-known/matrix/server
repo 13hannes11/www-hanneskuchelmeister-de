@@ -1,3 +1,3 @@
 { 
-    "m.server": "matrix.kuchelmeister.org:8448" 
+    "m.server": "matrix.kuchelmeister.org:443" 
 }
