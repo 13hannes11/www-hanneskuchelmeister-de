@@ -61,7 +61,7 @@ pygmentscodefencesguesssyntax = true
     name = "Matrix"
     icon = "fa fa-matrix-org"
     weight = 1
-    url = "https://matrix.to/#/@13hannes11:matrix.org"
+    url = "https://matrix.to/#/@hannes:kuchelmeister.org"
 [[params.social]]
     name = "E-Mail"
     icon = "fa fa-envelope"
