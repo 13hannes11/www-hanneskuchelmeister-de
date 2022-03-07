@@ -23,7 +23,7 @@ PHP                                             | ■▢▢▢▢▢▢▢▢▢
 Prolog                                          | ■▢▢▢▢▢▢▢▢▢ | Programming Paradigms\*\*
 R                                               | ■▢▢▢▢▢▢▢▢▢ | Artificial Intelligence*
 Racket                                          | ■■▢▢▢▢▢▢▢▢ | Advanced Functional Programming*
-[Rust]({{< ref "/tags/rust/">}})                | ■■▢▢▢▢▢▢▢▢ | Programming Paradigms\*\*, [ics-proxy]({{< ref "21_ics_proxy" >}})
+[Rust]({{< ref "/tags/rust/">}})                | ■■■▢▢▢▢▢▢▢ | Programming Paradigms\*\*, [ics-proxy]({{< ref "21_ics_proxy" >}}), [Focus Annotator]({{< ref "22_focus_annotator" >}})
 
 
 \* [University Course at Uppsala University (Master's)]({{< ref "/tags/UU/">}})   
