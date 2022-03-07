@@ -68,11 +68,6 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "mailto://hanneskuchelmeister.de"
 [[params.social]]
-    name = "PGP-Key"
-    icon = "fa fa-lock"
-    weight = 3
-    url = "https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x5923aeab59abffb0"
-[[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
