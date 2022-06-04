@@ -54,27 +54,27 @@ pygmentscodefencesguesssyntax = true
 
 [[params.social]]
     name = "Github"
-    icon = "fa fa-github"
+    icon = "fa fa-2x fa-github"
     weight = 1
     url = "https://github.com/13hannes11/"
 [[params.social]]
     name = "Matrix"
-    icon = "fa fa-matrix-org"
+    icon = "fa fa-2x fa-matrix-org"
     weight = 1
     url = "https://matrix.to/#/@hannes:kuchelmeister.org"
 [[params.social]]
     name = "E-Mail"
-    icon = "fa fa-envelope"
+    icon = "fa fa-2x fa-envelope"
     weight = 2
     url = "mailto://hanneskuchelmeister.de"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fa fa-linkedin"
+    icon = "fa fa-2x fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/hannes-kuchelmeister/"
 [[params.social]]
     name = "RSS"
-    icon = "fa fa-rss"
+    icon = "fa fa-2x fa-rss"
     weight = 6
     url = "index.xml"
     rel = "alternate"
