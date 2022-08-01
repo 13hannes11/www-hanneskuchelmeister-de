@@ -18,8 +18,8 @@ pygmentscodefencesguesssyntax = true
 
     author = "Hannes F. Kuchelmeister"
     description = "Hannes F. Kuchelmeister's personal website"
-    keywords = "blog,developer,personal"
-    info = "Master's Student in Computer Science at Uppsala University"
+    keywords = "blog,developer,personal,rust,foss"
+    info = "Software Engineer and Open Source Enthusiast"
     avatarurl = "images/avatar.jpg"
     footercontent = ""
 
