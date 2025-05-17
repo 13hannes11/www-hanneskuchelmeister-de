@@ -1,4 +1,4 @@
-baseurl = "https://hanneskuchelmeister.de/"
+# baseurl = "https://hanneskuchelmeister.de/"
 title = "Kuchelmeister"
 
 theme = "hugo-coder-timeline"
