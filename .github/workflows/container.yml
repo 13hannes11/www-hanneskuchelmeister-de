@@ -32,7 +32,7 @@ jobs:
           tags: ghcr.io/${{ github.repository }}:latest
       - name: Trigger deploy
         run: |
-          curl -H "Authorization: Bearer $WATCHTOWER_TOKEN" $WATCHTOWER_URL/v1/update
+          curl -H "Authorization: Bearer $WATCHTOWER_TOKEN" "${WATCHTOWER_URL}/v1/update"
         env:
           WATCHTOWER_TOKEN: ${{ secrets.WATCHTOWER_TOKEN }}
-
+          WATCHTOWER_URL: ${{ secrets.WATCHTOWER_URL }}
