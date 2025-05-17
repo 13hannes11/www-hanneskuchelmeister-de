@@ -12,7 +12,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+        with:
+          submodules: true
+          lfs: true
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
