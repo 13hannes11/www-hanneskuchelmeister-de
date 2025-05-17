@@ -39,7 +39,7 @@ pygmentscodefencesguesssyntax = true
     description = "Hannes F. Kuchelmeister's personal website"
     keywords = "blog,developer,personal,rust,foss"
     info = "Software Engineer and Open Source Enthusiast"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "/images/avatar.avif"
     footercontent = ""
 
     dateformat = "2 January, 2006"
